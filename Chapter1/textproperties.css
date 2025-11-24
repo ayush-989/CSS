@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    border:solid 2px black;
+    text-decoration:red underline;
+    line-height: normal;
+}
+h3{
+    text-align: right;
+    line-height: 2;
+}
+p{
+    text-align: justify;
+    font-weight: 400;
+    text-decoration: pink line-through;
+}
+h2{
+    font-weight: normal;
+    text-decoration: overline;
+}

@@ -1,0 +1,29 @@
+h1{
+
+    text-align: center;
+    font-weight: 700;
+    text-decoration: wavy underline;
+    text-decoration-color: black;
+    color: rgb(219, 17, 17);
+    letter-spacing: normal;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-align: start;
+    font-weight:bold;
+    text-decoration:dotted line-through;
+    color: rgb(33, 11, 172);
+    letter-spacing: 3px;
+    font-family: fantasy;
+}
+p{
+    font-weight:normal;
+    text-decoration: overline;
+    background-color: black;
+    color: antiquewhite;
+    line-height: 2.5;
+}
+a{
+    text-decoration:none;
+}

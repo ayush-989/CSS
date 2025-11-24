@@ -1,0 +1,21 @@
+#container{
+    height:500px;
+    width:80%;
+    background-color: #f0ffff;
+    margin: 10px auto ;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap-reverse;
+}
+h1{
+    text-align: center;
+}
+#container div{
+    height: 50px;
+    width: 150px;
+    color:#f0ffff;
+    text-align: center;
+   
+}

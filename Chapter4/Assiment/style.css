@@ -1,0 +1,33 @@
+#alpha{
+    height: 200px;
+    width: 70px;
+    border: 12px solid black;
+    background-color: hsla(162, 83%, 16%, 0.423);
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
+#opacity{
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    text-decoration-color: rgb(190, 17, 17);
+    text-decoration-line: underline;
+    opacity: 1;
+}
+#alpha:hover{
+    background-color: chocolate;
+    border-radius: 50%;
+}
+#transition{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin:0 auto;
+    margin-top: 10px;
+    transition:margin-top 2s ease-in 1s;
+}
+#transition:hover{
+    background-color: bisque;
+    margin-top: 400px;
+}
